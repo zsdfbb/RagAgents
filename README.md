@@ -1,6 +1,8 @@
 # RagAgents
 
-## Introduction to Our RAG System Project
+<img src="https://files.oaiusercontent.com/file-BQWpIKuXxgcDuK3RY1KNPRuT?se=2024-03-01T10%3A47%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D703cf855-3ee1-4ec5-8a17-c152cb50b1d2.webp&sig=1kV3XcXrxaoIwAJEaJUaxI/EHrg9t1yif7UsnUT1Sik%3D" style="zoom: 33%;" />
+
+## Introduction
 
 In the evolving landscape of software engineering, language models have carved a niche for themselves, offering unparalleled advantages in planning and reasoning. Yet, these models are not without their flaws. The emergence of hallucination problems within language models can disrupt logical planning, introduce uncertainties, and hinder the execution of complex tasks. Our project, at the intersection of database knowledge and advanced language models, introduces a Retrieval Augmentation Generation (RAG) System. This system is tailored for the DBA Agency, designed to navigate through the intricacies of task planning with precision and efficiency.
 
