@@ -1,6 +1,6 @@
 # RagAgents
 
-![cover](https://files.oaiusercontent.com/file-yubGim2vh5EoOEBagh7wT7Vl?se=2024-03-04T03%3A31%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Deacb3b39-3d38-4d74-b0a2-5edfdd050467.webp&sig=cjH1AIRjm1ygwdD2YaKNWsolq3rp3VNDtFYRNq8gSxo%3D)
+![cover](./figures/cover.webp)
 
 ## Introduction
 
